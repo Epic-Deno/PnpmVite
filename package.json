@@ -1,0 +1,23 @@
+{
+  "name": "pnpmvite",
+  "version": "0.0.1",
+  "author": {
+    "name": "Pony",
+    "email": "zhenz0278@gmail.com",
+    "url": "https://epic-deno.github.io/deno.github.io"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.2.16",
+    "vue-router": "4.0.12"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.9.3",
+    "sass": "^1.43.2",
+    "vite": "^2.6.4"
+  }
+}
